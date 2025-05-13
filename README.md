@@ -2,4 +2,4 @@
 This is my first GIT Repository.
 
 <br>
-Author- Shadab Hussain
+Author- Shadab Hussain khan
